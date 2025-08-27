@@ -1,9 +1,9 @@
-twisted==10.2.0
+twisted==24.7.0rc1
 
 # websocket adapter for twisted, might be built into twisted someday
 txws==0.9.1
 
-psutil==5.4.3
+psutil==7.0.0
 
 # needed by txws, but pypi doesn't know about it
 six==1.10.0
