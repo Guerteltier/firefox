@@ -10,9 +10,9 @@
   "license": "W3C",
   "dependencies": {},
   "devDependencies": {
-    "expect": "21.2.1",
+    "expect": "30.0.5",
     "jsondiffpatch": "0.2.5",
-    "mocha": "4.0.1"
+    "mocha": "11.7.1"
   },
   "scripts": {
     "test": "mocha"
