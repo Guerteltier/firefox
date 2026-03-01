@@ -180,7 +180,7 @@
     "license-checker": "25.0.1",
     "mocha": "11.5.0",
     "prettier": "3.5.3",
-    "rollup": "4.41.1",
+    "rollup": "4.59.0",
     "semver": "7.7.2",
     "sinon": "20.0.0",
     "source-map-support": "0.5.21",
